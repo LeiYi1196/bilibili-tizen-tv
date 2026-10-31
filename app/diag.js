@@ -1,0 +1,1 @@
+window.BILI_DIAG="";
